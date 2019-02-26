@@ -4,12 +4,12 @@
 
 // Network setup
 const char* client_name = "rollerblind";
-const char* ssid = "ValkNetwerk";
-const char* password = "6667969820";
-const char* mqtt_server = "m21.cloudmqtt.com";
+const char* ssid = "SSID";
+const char* password = "Password";
+const char* mqtt_server = "Server";
 const int mqtt_port = 18373;
-const char* mqtt_username = "ctgpskof";
-const char* mqtt_password = "idDELqFoWMbt";
+const char* mqtt_username = "user";
+const char* mqtt_password = "password";
 const char* mqtt_topic = "Rollerblind1";
 const int revolutions_rollerblind = 10;
 
